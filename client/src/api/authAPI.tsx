@@ -12,6 +12,8 @@ const login = async (userInfo: UserLogin) => {
       body: JSON.stringify(userInfo),
     });
 
+    console.log("Response:", response);
+
     // Throw error if response status is not OK (200-299)
     if (!response.ok) {
       const errorData = await response.json(); // Parse error response as JSON
