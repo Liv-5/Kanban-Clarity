@@ -21,16 +21,15 @@ This project is a kanban board application where a user can login and create tic
 
 ## Preview
 
-![Kanban Login](/Kanban-Clarity/assets/KanbanLoginSS.PNG)
+<!-- ![Kanban Login](/Kanban-Clarity/assets/KanbanLoginSS.PNG)
 
 ![Kanban Board](/Kanban-Clarity/assets/KanbanPageSS.PNG)
 
-![Kanban Ticket](/Kanban-Clarity/assets/KanbanTicketSS.PNG)
+![Kanban Ticket](/Kanban-Clarity/assets/KanbanTicketSS.PNG) -->
 
-<!-- <img src="./src/assets/portfolioaboutss.PNG" alt="portfolio about page">
-<img src="./src/assets/portfoliocontactss.PNG" alt="portfolio contact page">
-<img src="./src/assets/portfolioportss.PNG" alt="portfolio page">
-<img src="./src/assets/portfolioresumess.PNG" alt="portfolio resume page"> -->
+<img src="./assets/KanbanLoginSS.PNG" alt="Kanban Login page">
+<img src="./assets/KanbanPageSS.PNG" alt="Kanban board page">
+<img src="./assets/KanbanTicketSS.PNG" alt="Kanban ticket page">
 
 ## Deployed Webpage
 
