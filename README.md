@@ -4,39 +4,39 @@
 
 ## Description
 
+This project is a kanban board application where a user can login and create tickets and place them in categories. Once they create a ticket they have the ability to move the tickets into the category that fits where it is in the project phases.
+
 ## Table of Contents
 
 - [GitHub Repository](#github-repository)
 - [Preview](#preview)
-- [Credits](#credits)
+<!-- - [Credits](#credits) -->
 - [License](#license)
 - [How to Contribute](#how-to-contribute)
 - [Questions](#questions)
 
 ## Github Repository
 
-[GitHub Repository](https://github.com/Liv-5/Portfolio-Project)
+[GitHub Repository](https://github.com/Liv-5/Kanban-Clarity)
 
 ## Preview
 
-<!-- ![portfolio about page](src/assets/portfolioaboutss.png)
+![Kanban Login](/Kanban-Clarity/assets/KanbanLoginSS.PNG)
 
-![portfolio contact page](src/assets/portfoliocontactss.png)
+![Kanban Board](/Kanban-Clarity/assets/KanbanPageSS.PNG)
 
-![portfolio page](src/assets/portfolioportss.png)
+![Kanban Ticket](/Kanban-Clarity/assets/KanbanTicketSS.PNG)
 
-![portfolio resume page](src\assets\portfolioresumess.PNG) -->
-
-<img src="./src/assets/portfolioaboutss.PNG" alt="portfolio about page">
+<!-- <img src="./src/assets/portfolioaboutss.PNG" alt="portfolio about page">
 <img src="./src/assets/portfoliocontactss.PNG" alt="portfolio contact page">
 <img src="./src/assets/portfolioportss.PNG" alt="portfolio page">
-<img src="./src/assets/portfolioresumess.PNG" alt="portfolio resume page">
+<img src="./src/assets/portfolioresumess.PNG" alt="portfolio resume page"> -->
 
 ## Deployed Webpage
 
-[Deployed Link](link)
+[Deployed Link](https://kanban-clarity.onrender.com/)
 
-## Credits
+<!-- ## Credits -->
 
 ## License
 
